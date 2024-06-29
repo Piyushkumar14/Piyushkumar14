@@ -2,50 +2,90 @@
 
 ## Introduction
 
-Hello! I'm Piyush Kumar, a passionate and versatile professional with a background in both data science and Java development. I thrive on challenges, am constantly eager to learn, and possess a strong determination to deliver high-quality solutions.
+Hello! I'm Piyush Kumar, a passionate and versatile professional with a background in both data science and software development. I thrive on challenges, am constantly eager to learn, and possess a strong determination to deliver high-quality solutions.
 
 ## About Me
 
-I bring a unique blend of skills in data science and Java development, allowing me to approach problems from multiple perspectives. My love for coding and data analytics has driven me to explore innovative solutions and contribute to projects that make a real impact.
+I bring a unique blend of skills in data science and software development, allowing me to approach problems from multiple perspectives. My love for coding and data analytics has driven me to explore innovative solutions and contribute to projects that make a real impact.
+
+## Education
+
+- **Bachelor of Technology in Computer Science Engineering**
+  - Lovely Professional University
+  - 2020 – Present
 
 ## Skills
 
-### Data Science
-- **Machine Learning:** Experienced in building and deploying machine learning models for predictive analysis and classification.
-- **Data Analysis:** Proficient in exploring and analyzing complex datasets to extract meaningful insights.
-- **Data Visualization:** Skilled in creating informative and visually appealing charts and graphs to communicate findings effectively.
+### Programming Languages
+- **Python:** Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Flask
+- **Java:** Core, Swing, Spring
+- **Modern C++:** C++17, C++20
 
-### Java Development
-- **Java Programming:** Strong proficiency in Java, with a focus on building scalable and efficient applications.
-- **Spring Framework:** Experience in using Spring for building robust and modular enterprise applications.
-- **Database Management:** Proficient in working with databases, including SQL and NoSQL.
+### Machine Learning
+- **Predictive Modeling:** Building models for predictive analysis
+- **Descriptive Analytics:** Analyzing and summarizing datasets
+- **Algorithms:** Designing and implementing efficient algorithms
+
+### Databases
+- **SQL:** Proficient in SQL and MySQL
+
+### Data Analysis Tools
+- **Microsoft Excel:** Advanced data analysis capabilities
+- **Tableau:** Data visualization and dashboard creation
+
+### Data Visualization
+- **Techniques, Tools, and Best Practices:** Creating informative and visually appealing charts and graphs
+
+## Certifications
+- **Google Data Analytics (Coursera)**
+- **DSA Self-Paced (GeeksforGeeks)**
+
+## Work Experience
+
+- **Genesis Trainee, KPIT Technologies Limited**
+  - January 2024 – April 2024
+  - Engaged in intensive training sessions focusing on modern C++ programming techniques and best practices.
+  - Implemented projects using C++17 features like structured bindings and fold expressions.
+  - Gained experience in memory management and real-time implementation.
 
 ## Projects
 
-Here are a few highlights of my recent projects:
+1. **Smoke and Fire Detector**
+   - Python, June 2024
+   - Developed an end-to-end smoke and fire detection system utilizing Convolutional Neural Networks (CNNs).
+   - Achieved high accuracy of 99% in detecting smoke and fire occurrences.
+   - Created a Flask application for user-friendly detection.
 
-1. **Predictive Analytics for Sales Forecasting:**
-   - Developed a machine learning model to predict sales trends, resulting in a 20% improvement in forecasting accuracy.
+2. **Stock Price Predictor**
+   - Python, May 2024
+   - Implemented data preprocessing pipelines and built a Random Forest Regressor model.
+   - Designed an intuitive front-end UI and deployed the application on the cloud.
+   - Developed a full-stack web application using Flask for stock price prediction.
 
-2. **University Management System(UMS):**
-   - Led the development of a Java-based UMS system, streamlining the management of student and teachers on one admin based spalsh application and enhancing overall efficiency.
+3. **University Management System (UMS)**
+   - Java, SQL, March 2023
+   - Designed and developed a university management system using Java and MySQL.
+   - Implemented role-based access controls for secure data management.
+   - Conducted thorough testing for stability and reliability.
 
-3. **Desktop Assistant (Jarvis):**
-   - Led the development of a python-based desktop assistant that can perform tasks by recognizing by text and enhancing overall efficiency.
+4. **Desktop Assistant**
+   - Python, May 2023
+   - Developed a Python-based desktop assistant using natural language processing and machine learning techniques.
+   - Integrated APIs for real-time data retrieval such as weather updates, news, and stock prices.
 
 ## Learning and Development
 
 I believe in the power of continuous learning and stay updated with the latest industry trends. Some of the areas I am currently exploring include:
 
-- **Deep Learning:** Delving into advanced neural network architectures for solving complex problems.
-- **Microservices Architecture:** Exploring the implementation of microservices for scalable and maintainable applications.
+- **Deep Learning:** Advanced neural network architectures for complex problem-solving.
+- **Microservices Architecture:** Implementation of microservices for scalable and maintainable applications.
 
 ## Contact Information
 
 Feel free to reach out to me for collaboration, opportunities, or just to discuss exciting projects. I'm always open to new challenges and learning experiences.
 
 - **Email:** pr14122001@gmail.com
-- **LinkedIn:** linkedin.com/in/piyush-kumar-849065131/
-- **GitHub:** github.com/Piyushkumar14
+- **LinkedIn:** [linkedin.com/in/piyush-kumar-849065131/](https://linkedin.com/in/piyush-kumar-849065131/)
+- **GitHub:** [github.com/Piyushkumar14](https://github.com/Piyushkumar14)
 
 Let's build something amazing together!
