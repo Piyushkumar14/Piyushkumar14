@@ -8,12 +8,6 @@ Hello! I'm Piyush Kumar, a passionate and versatile professional with a backgrou
 
 I bring a unique blend of skills in data science and software development, allowing me to approach problems from multiple perspectives. My love for coding and data analytics has driven me to explore innovative solutions and contribute to projects that make a real impact.
 
-## Education
-
-- **Bachelor of Technology in Computer Science Engineering**
-  - Lovely Professional University
-  - 2020 – Present
-
 ## Skills
 
 ### Programming Languages
