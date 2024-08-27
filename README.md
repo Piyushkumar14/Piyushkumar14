@@ -30,9 +30,7 @@ I bring a unique blend of skills in data science and software development, allow
 ### Data Visualization
 - **Techniques, Tools, and Best Practices:** Creating informative and visually appealing charts and graphs
 
-## Certifications
-- **Google Data Analytics (Coursera)**
-- **DSA Self-Paced (GeeksforGeeks)**
+
 
 ## Work Experience
 
@@ -44,25 +42,31 @@ I bring a unique blend of skills in data science and software development, allow
 
 ## Projects
 
-1. **Smoke and Fire Detector**
+1. **CO2 Emission Forecasting**
+   - Engineered a time series model using Seasonal ARIMA to forecast CO2 emissions based on historical data.
+   -Analyzed and preprocessed data, conducting stationarity testing to ensure model accuracy.
+   -Optimized the forecasting model through grid search techniques.
+   -Designed and deployed an interactive web application using Streamlit for real-time predictions and data visualization.
+
+2. **Smoke and Fire Detector**
    - Python, June 2024
    - Developed an end-to-end smoke and fire detection system utilizing Convolutional Neural Networks (CNNs).
    - Achieved high accuracy of 99% in detecting smoke and fire occurrences.
    - Created a Flask application for user-friendly detection.
 
-2. **Stock Price Predictor**
+3. **Stock Price Predictor**
    - Python, May 2024
    - Implemented data preprocessing pipelines and built a Random Forest Regressor model.
    - Designed an intuitive front-end UI and deployed the application on the cloud.
    - Developed a full-stack web application using Flask for stock price prediction.
 
-3. **University Management System (UMS)**
+4. **University Management System (UMS)**
    - Java, SQL, March 2023
    - Designed and developed a university management system using Java and MySQL.
    - Implemented role-based access controls for secure data management.
    - Conducted thorough testing for stability and reliability.
 
-4. **Desktop Assistant**
+5. **Desktop Assistant**
    - Python, May 2023
    - Developed a Python-based desktop assistant using natural language processing and machine learning techniques.
    - Integrated APIs for real-time data retrieval such as weather updates, news, and stock prices.
@@ -73,6 +77,11 @@ I believe in the power of continuous learning and stay updated with the latest i
 
 - **Deep Learning:** Advanced neural network architectures for complex problem-solving.
 - **Microservices Architecture:** Implementation of microservices for scalable and maintainable applications.
+
+## Certifications
+- **Google Data Analytics (Coursera)**
+- **DSA Self-Paced (GeeksforGeeks)**
+
 
 ## Contact Information
 
