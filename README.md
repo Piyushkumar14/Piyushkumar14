@@ -1,6 +1,6 @@
 # Piyush Kumar
 
-## Data Scientist | ML Systems | NLP | AI
+## Data Scientist | ML Engineer | Python Developer
 
 ---
 
